@@ -1,0 +1,11 @@
+{
+  "name": "Huddle",
+  "description": "A medication schedule and daily spoken check-in app for older adults and their family caregivers, handling daily logistics so family time stays focused on connection.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

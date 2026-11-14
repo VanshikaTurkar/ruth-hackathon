@@ -1,0 +1,8 @@
+=== Sample Label 1: Amlodipine 5 mg (Once Daily) ===
+WALGREENS  Rx# 123456  AMLODIPINE 5 MG TABLETS  TAKE ONE TABLET BY MOUTH ONCE DAILY  Qty 30  Dr. A. Patel
+
+=== Sample Label 2: Naproxen 220 mg (Twice Daily with Food - Interaction check with Lisinopril) ===
+CVS PHARMACY  Rx# 784920  NAPROXEN 220 MG TABLETS  TAKE ONE TABLET BY MOUTH TWICE DAILY WITH FOOD FOR JOINT PAIN  Qty 60  Dr. J. Smith
+
+=== Sample Label 3: Faded / Partially Unreadable Label (Low Confidence Demo) ===
+RITE AID  Rx# 99281  OMEPRAZOLE [SMUDGED] MG DELAYED-RELEASE CAPSULES  TAKE [ILLEGIBLE] BEFORE BREAKFAST  Dr. K. Chen
